@@ -40,7 +40,7 @@ bash iLLMAC_train.sh
 ```
 
 The trained model will be saved in `out` when the above command finishes running.
-We uploaded a pretrained model in [BaiduDisk (Password:1234)](https://markdown.com.cn) for this tutorial. Download it, and put it in `llama/7b-32` folder.
+We uploaded a pretrained model in [BaiduDisk](https://markdown.com.cn)(Password:1234) for this tutorial. Download it, and put it in `llama/7b-32` folder.
 
 - Instructions to evaluate iLLMAC:
 ```bash
